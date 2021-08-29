@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Jonathan Han!
+# <img src="https://github.com/jonhan8352/jonhan8352/blob/main/wave.gif" width="30px"> Hi there, I’m Jonathan Han!
 ![](https://komarev.com/ghpvc/?username=jonhan8352&color=blue&style=plastic)<br />
 I'm a tech enthusiast, YouTuber, photographer and IT professional.
 - 👀 I’m interested in networking &#x1F5A7;, IT security &#x1F512; and programming.
