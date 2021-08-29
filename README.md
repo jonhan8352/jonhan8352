@@ -1,8 +1,8 @@
 # 👋 Hi there, I’m Jonathan Han!
 ![](https://komarev.com/ghpvc/?username=jonhan8352&color=blue&style=plastic)<br />
 I'm a tech enthusiast, YouTuber, photographer and IT professional.
-- 👀 I’m interested in networking, IT security and programming.
-- ❤️ Love photography and travelling too.
+- 👀 I’m interested in networking &#x1F5A7;, IT security &#x1F512; and programming.
+- ❤️ Love photography &#128247; and travelling &#9992; too.
 
 <br />
 
